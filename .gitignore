@@ -1,0 +1,66 @@
+/target/
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+chromedriver.exe
+test-output/bullet_point.png
+test-output/collapseall.gif
+test-output/CorusentUATRegressionTestSuite/CorusentChromeDesktop.html
+test-output/CorusentUATRegressionTestSuite/CorusentChromeDesktop.xml
+test-output/Default suite/Default test.html
+test-output/Default suite/Default test.xml
+test-output/Default suite/testng-failed.xml
+test-output/emailable-report.html
+test-output/EpicGamesRegressionTestSuite/EpicGamesChromeDesktop.html
+test-output/EpicGamesRegressionTestSuite/EpicGamesChromeDesktop.xml
+test-output/failed.png
+test-output/index.html
+test-output/jquery.min.js
+test-output/junitreports/TEST-epicgames.qa.automation.search.CaseSensitive.xml
+test-output/junitreports/TEST-epicgames.qa.automation.search.SpecialCharacters.xml
+test-output/navigator-bullet.png
+test-output/old/CorusentUATRegressionTestSuite/classes.html
+test-output/old/CorusentUATRegressionTestSuite/CorusentChromeDesktop.properties
+test-output/old/CorusentUATRegressionTestSuite/groups.html
+test-output/old/CorusentUATRegressionTestSuite/index.html
+test-output/old/CorusentUATRegressionTestSuite/main.html
+test-output/old/CorusentUATRegressionTestSuite/methods-alphabetical.html
+test-output/old/CorusentUATRegressionTestSuite/methods-not-run.html
+test-output/old/CorusentUATRegressionTestSuite/methods.html
+test-output/old/CorusentUATRegressionTestSuite/reporter-output.html
+test-output/old/CorusentUATRegressionTestSuite/testng.xml.html
+test-output/old/CorusentUATRegressionTestSuite/toc.html
+test-output/old/Default suite/classes.html
+test-output/old/Default suite/Default test.properties
+test-output/old/Default suite/groups.html
+test-output/old/Default suite/index.html
+test-output/old/Default suite/main.html
+test-output/old/Default suite/methods-alphabetical.html
+test-output/old/Default suite/methods-not-run.html
+test-output/old/Default suite/methods.html
+test-output/old/Default suite/reporter-output.html
+test-output/old/Default suite/testng.xml.html
+test-output/old/Default suite/toc.html
+test-output/old/EpicGamesRegressionTestSuite/classes.html
+test-output/old/EpicGamesRegressionTestSuite/EpicGamesChromeDesktop.properties
+test-output/old/EpicGamesRegressionTestSuite/groups.html
+test-output/old/EpicGamesRegressionTestSuite/index.html
+test-output/old/EpicGamesRegressionTestSuite/main.html
+test-output/old/EpicGamesRegressionTestSuite/methods-alphabetical.html
+test-output/old/EpicGamesRegressionTestSuite/methods-not-run.html
+test-output/old/EpicGamesRegressionTestSuite/methods.html
+test-output/old/EpicGamesRegressionTestSuite/reporter-output.html
+test-output/old/EpicGamesRegressionTestSuite/testng.xml.html
+test-output/old/EpicGamesRegressionTestSuite/toc.html
+test-output/old/index.html
+test-output/passed.png
+test-output/skipped.png
+test-output/testng-failed.xml
+test-output/testng-reports.css
+test-output/testng-reports.js
+test-output/testng-reports1.css
+test-output/testng-reports2.js
+test-output/testng-results.xml
+test-output/testng.css

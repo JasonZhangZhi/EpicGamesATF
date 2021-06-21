@@ -41,7 +41,7 @@ To run the project locally, please make sure the following are downloaded and in
 
 ** 2. [Clone "EpicGamesATF" repository from GitHub] **
 
-	Open https://github.com/zhangzhi02117@gmail.com/EpicGamesATF
+	Open https://github.com/JasonZhangZhi/EpicGamesATF
 	Click "Code" button >> "Open with GitHub Desktop"
 	Follow up the instruction to clone the repository to your local Eclipse workspace folder. 
 

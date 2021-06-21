@@ -52,18 +52,18 @@ public class PageObject_Search_SpecialCharacters extends BasePage {
 
 	    // Verify the keyword of "TotalWar" will get no results found.
 	    if (i == 1) {
-		if (isWebElementExisting(noResultFound)) {
-		    System.out.println("The keyword: " + input + " no result found.");
-		    Reporter.log("<font color='lightgreen'>The Keyword: " + "<font color='blue'>" + input
-			    + "<font color='lightgreen'> no result found.");
-		} else {
-		    if (searchCards.isEmpty()) {
-			System.out.println("The keyword: " + input + " found some cards unexpectly.");
-			Reporter.log("<font color='lightgreen'>The Keyword: " + "<font color='blue'>" + input
-				+ "<font color='lightgreen'> found some cards unexpectly.</font>");
-			searchResultsCorrect = false;
-		    }
-		}
+			if (isWebElementExisting(noResultFound)) {
+			    System.out.println("The keyword: " + input + " no result found.");
+			    Reporter.log("<font color='lightgreen'>The Keyword: " + "<font color='blue'>" + input
+				    + "<font color='lightgreen'> no result found.");
+			} else {
+			    if (!searchCards.isEmpty()) {
+				System.out.println("The keyword: " + input + " found some cards unexpectly.");
+				Reporter.log("<font color='lightgreen'>The Keyword: " + "<font color='blue'>" + input
+					+ "<font color='lightgreen'> found some cards unexpectly.</font>");
+				searchResultsCorrect = false;
+			    }
+			}
 	    } else {
 		if (!searchCards.isEmpty()) {
 		    for (WebElement searchCard : searchCards) {
